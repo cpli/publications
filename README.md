@@ -1,7 +1,7 @@
 # publications
 
 ## Journals
-* C. Li, C. Li, K. Hosseini, S. Lee, J. Jiang, W. Chen, G. Horn, T. Ji, J. Smee, and J. Li, [5G-based systems design for tactile Internet](https://github.com/cpli/publications/blob/master/papers/08452975.pdf), Proceedings of the IEEE 107(2):307-324, February 2019.
+* C. Li, C. Li, K. Hosseini, S. Lee, J. Jiang, W. Chen, G. Horn, T. Ji, J. Smee, and J. Li, [5G-based systems design for tactile Internet](https://github.com/cpli/publications/blob/master/papers/08452975.pdf), Proceedings of the IEEE, 107(2):307-324, February 2019.
 * A. Rai, C. Li, G. Paschos, and E. Modiano, [Loop-free backpressure routing using link-reversal algorithms](https://github.com/cpli/publications/blob/master/papers/07967710.pdf), IEEE/ACM Transactions on Networking, 25(5):2988-3002, July 2017.
 * A. Sinha, G. Paschos, C. Li, and E. Modiano, [Throughput-optimal multihop broadcast on directed acyclic wireless networks](https://github.com/cpli/publications/blob/master/papers/07508474.pdf), IEEE/ACM Transactions on Networking, 25(1):377-391, February 2017.
 * G. Paschos, C. Li, E. Modiano, K. Choumas, T. Korakis, [In-network congestion control for multirate multicast](https://github.com/cpli/publications/blob/master/papers/07353228.pdf), IEEE/ACM Transactions on Networking, 24(5):3043-3055, October 2016.
