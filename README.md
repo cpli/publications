@@ -13,6 +13,7 @@
 * M. J. Neely, E. Modiano, and C. Li, [Fairness and optimal stochastic control for heterogeneous networks](https://github.com/cpli/publications/blob/master/papers/NML08.pdf), IEEE/ACM Transactions on Networking, 16(2):396-409, April 2008.
 
 ## Conferences
+* J. Sundararajan, H. Kwon, O. Awoniyi-Oteri, Y. Kim, C. Li, J. Damnjanovic, S. Zhou, R. Ma, Y. Tokgoz, P. Hande, T. Luo, K. Mukkavilli, T. Ji, [Performance Evaluation of Extended Reality Applications in 5G NR System](https://github.com/cpli/publications/blob/master/papers/SKA21conf.pdf), IEEE PIMRC, 2021.
 * W. Yang, C. Li, A. Fakoorian, K. Hosseini, W. Chen, [Dynamic URLLC and eMBB multiplexing design in 5G New Radio](https://github.com/cpli/publications/blob/master/papers/PID6245575.pdf), IEEE Consumer Communications & Networking Conference, Las Vegas, USA, 2020.
 * C. Li, J. Jiang, W. Chen, T. Ji, and J. Smee, [5G ultra-reliable and low-latency systems design](https://github.com/cpli/publications/blob/master/papers/07980747.pdf), European Conference on Networks and Communications (invited paper), June 2017.
 * K. S. Kim, C. Li, I. Kadota, E. Modiano, [Optimal scheduling of real-time traffic in wireless networks with delayed feedback](https://github.com/cpli/publications/blob/master/papers/07447137.pdf), Allerton Conference on Communication, Control, and Computing, 2015.
